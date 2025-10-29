@@ -3,15 +3,15 @@
 
 # 結果画像
 
-![結果](Movie_001.gif)
+![結果](MyMovie_002.gif)
 
-![結果](Movie_002.gif)
+![結果](MyMovie_003.gif)
 
-![結果](Movie_003.gif)
+![結果](MyMovie_004.gif)
 
-![結果](Movie_004.gif)
+![結果](MyMovie_005.gif)
 
-- 工夫した点：xxx
+- 工夫した点：色が変化しながら光が走っていくデザインにしてみました。
 
 # 進め方
 
